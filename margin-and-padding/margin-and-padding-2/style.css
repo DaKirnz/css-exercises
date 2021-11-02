@@ -17,20 +17,27 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
   padding: 10px;
-  font-size: 18pt;
+  font-size: 14pt;
 }
 
 .content {
   background: #e3f4ff;
   margin-top: 10px;
   margin-bottom: 10px;
+  padding: 10px
 }
 
 .button-container {
   background: #e3f4ff;
+  padding: 10px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  margin-left: 145px
+}
+span {
+  display:block;
+  margin-left: 170px;
 }
